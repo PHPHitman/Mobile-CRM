@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "212275767289",
+    "firebase_url": "https://projektcrm-5a33d.firebaseio.com",
+    "project_id": "projektcrm-5a33d",
+    "storage_bucket": "projektcrm-5a33d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212275767289:android:a36f912681f05e0c7bff28",
+        "android_client_info": {
+          "package_name": "com.example.projektcrm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212275767289-pf35kctmllr1ufa2lcnpl95hs2ho6ch4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.projektcrm",
+            "certificate_hash": "fad767bf4a12bf5e2f08553120044f42adccaf74"
+          }
+        },
+        {
+          "client_id": "212275767289-muo634ttv5e49trn6tm4jta039umcn3b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfL0cTZbnMz7gn8yDru-oc2sQbRvbgrww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212275767289-muo634ttv5e49trn6tm4jta039umcn3b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

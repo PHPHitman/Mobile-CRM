@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+
+    tools:context=".SaveTask">
+
+    <EditText
+        android:id="@+id/edit_text_company"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Firma"
+        android:inputType="text"/>
+    <EditText
+        android:id="@+id/edit_text_adress"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Adres"
+        android:inputType="text"/>
+
+    <EditText
+        android:id="@+id/edit_text_phone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Telefon"
+        android:inputType="phone" />
+    <EditText
+        android:inputType="textMultiLine"
+        android:layout_marginBottom="10dp"
+        android:lines="8"
+        android:minLines="1"
+        android:maxLines="8"
+        android:id="@+id/edit_text_description"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Opis zlecenia"
+        />
+
+    <Button
+        android:id="@+id/save_job"
+        android:layout_marginBottom="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/menubutton"
+        android:onClick="saveJob"
+        android:text="Zapisz" />
+
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/menubutton"
+        android:onClick="back"
+        android:text="wstecz" />
+
+
+</LinearLayout>

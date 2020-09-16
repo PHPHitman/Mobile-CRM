@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ProjektCRM</string>
+    <string name="btnRegister">Dodaj</string>
+    <string name="regName">Imie</string>
+    <string name="regSurname">Nazwisko</string>
+    <string name="regEmail">Email</string>
+    <string name="regPhone">Nr.telefonu</string>
+    <string name="regPassword">Hasło</string>
+    <string name="btnLogin">Zaloguj</string>
+    <string name="btnLogout">Wyloguj</string>
+</resources>
