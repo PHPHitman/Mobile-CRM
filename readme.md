@@ -28,29 +28,21 @@ It's very simple CRM which allow to manage tasks ordered for employee.
 
 ## Screenshots
 
-<img src="screens/loggin.jpg" width="300"><br/>
-Loggin page<br/><br/>
+<img src="https://imagizer.imageshack.com/img922/7421/dcPgy1.jpg" width="350"/>  |  <img src="https://imagizer.imageshack.com/img924/488/QcLZ7c.jpg" width="350"/>
+:-------------------------:|:-------------------------:
+Login page|Add new employe account
 
-<img src="screens/boss_menu.png" width="300"><br/>
-Boss menu<br/><br/>
+<img src="https://imagizer.imageshack.com/img922/1577/FzDpMz.png" width="350"/>  |  <img src="https://imagizer.imageshack.com/img923/7378/tyVkbx.jpg" width="350"/>
+:-------------------------:|:-------------------------:
+Boss menu|Employee menu
 
-<img src="screens/add_task.png" width="300"><br/>
-Add new task, data validation- phone required<br/><br/>
+<img src="https://imagizer.imageshack.com/img922/9721/zFUMJF.png" width="350"/>  |  <img src="https://imagizer.imageshack.com/img922/8171/fzVnsL.png" width="350"/>
+:-------------------------:|:-------------------------:
+Add task|Task view
 
-<img src="screens/registration.jpg" width="300"><br/>
-Registration new employee<br/><br/>
-
-<img src="screens/task_details_boss.png" width="300"><br/>
-Task details visible for boss<br/><br/>
-
-<img src="screens/employee_menu.jpg" width="300"><br/>
-Employee menu<br/><br/>
-
-<img src="screens/task_list.png" width="300"><br/>
-Task list<br/><br/>
-
-<img src="screens/task_details_employee.png" width="300"><br/>
-Task details for employee, tap to change status<br/>
+<img src="https://imagizer.imageshack.com/img923/8528/EwRtWZ.png" width="350"/>  |  <img src="https://imagizer.imageshack.com/img923/3853/meucQN.png" width="350"/>
+:-------------------------:|:-------------------------:
+Task details- employee view. |Task details- boss view.
 
 
 ## Technologies
